@@ -1,1 +1,1 @@
-# repo
+# odin-recipes
